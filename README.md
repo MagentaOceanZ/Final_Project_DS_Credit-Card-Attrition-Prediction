@@ -1,10 +1,11 @@
 💳 Credit Card Customer Attrition Prediction 🔮
+
 This project aims to predict credit card customers who are likely to churn (attrition) using machine learning. The model is built with Python and XGBoost, and deployed with Streamlit for interactive analysis.
 
 🚀 Streamlit App
 Visit the deployed Streamlit application:
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg
-🔗 Alternative link: App URL
+https://finalprojectdscredit-card-attrition-prediction-il4n326jh4epfr7.streamlit.app/
+
 
 📌 Project Overview
 ✨ Key Features
