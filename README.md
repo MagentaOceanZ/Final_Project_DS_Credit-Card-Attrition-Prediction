@@ -8,7 +8,9 @@ https://finalprojectdscredit-card-attrition-prediction-il4n326jh4epfr7.streamlit
 
 
 📌 Project Overview
+
 ✨ Key Features
+
 📊 Attrition Prediction: Uses an XGBoost model with SMOTE to predict customer churn with 91.4% accuracy
 
 🔍 Exploratory Data Analysis: Visualizations of key factors influencing attrition (gender, income, card category, etc.)
